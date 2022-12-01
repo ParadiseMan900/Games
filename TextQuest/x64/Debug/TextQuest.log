@@ -1,0 +1,3 @@
+﻿  TextQuest.cpp
+C:\ПРОГРАММЫ\TextQuest\TextQuest.cpp(103,12): warning C4476: "printf": неизвестный символ поля типа "\n" в описателе формата
+  TextQuest.vcxproj -> C:\ПРОГРАММЫ\TextQuest\x64\Debug\TextQuest.exe
