@@ -1,0 +1,63 @@
+﻿  Main.cpp
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(107,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(160,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(160,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(163,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(163,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(168,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(168,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(213,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(213,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(149,79): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(283,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(283,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(286,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(286,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(302,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(302,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(322,58): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(323,58): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(432,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Game.hpp(435,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\ПРОГРАММЫ\Zmeika\Main.cpp(107,57): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\ПРОГРАММЫ\Zmeika\Main.cpp(108,57): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\ПРОГРАММЫ\Zmeika\Main.cpp(128,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  1 of 149 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Zmeika.vcxproj -> C:\ПРОГРАММЫ\Zmeika\x64\Release\Zmeika.exe
